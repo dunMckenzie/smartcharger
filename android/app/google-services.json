@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129851045579",
+    "project_id": "charger-a4dfa",
+    "storage_bucket": "charger-a4dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129851045579:android:c0fb95ce69849576ec0d4e",
+        "android_client_info": {
+          "package_name": "com.example.charger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozXKkDuomGLhMBYrVxpLgaVpT8m5DrOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-# charger
+# smart charger
 
 A new Flutter project.
 
